@@ -9,5 +9,9 @@ int  i =50;
 
 //        char ch ='a';
 //        System.out.println(++ch);
+        // eve
+
+        float b = 49.2f + 7;
+        System.out.println(b);
     }
 }
