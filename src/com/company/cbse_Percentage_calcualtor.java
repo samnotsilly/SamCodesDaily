@@ -23,12 +23,9 @@ public class cbse_Percentage_calcualtor {
             B = sc.nextInt();
             System.out.println("enter marks for subject C");
             C = sc.nextInt();
-            System.out.println("enter marks for subject D");
-            D = sc.nextInt();
-            System.out.println("enter marks for subject E");
-            E = sc.nextInt();
 
-            percentage = (A + B + C + D + E) / X * 100;
+
+            percentage = (A + B + C ) / X * 100;
             System.out.println("Ther avg percentage of the user is " + percentage);
         }
     }
